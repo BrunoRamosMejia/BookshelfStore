@@ -1,0 +1,68 @@
+.index-background {
+    background-image: url(../imagenes/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: top center;
+}
+
+.mangaBackground {
+    background-image: url(../imagenes/fondo.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: top center;
+}
+
+.baseBackground {
+    background-image: url(../imagenes/fondo3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: top center;
+}
+
+.grisBackground {
+    background-color: rgb(187, 187, 187);
+}
+
+nav {
+    background-color: #1a1a1a;
+    opacity: 0.7;
+}
+
+.fuente {
+    font-family: 'Caveat', cursive;
+    -webkit-text-stroke: 2px rgb(0, 0, 0);
+    color: rgb(128, 79, 6);
+}
+
+.section1 {
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+
+.title {
+    margin-top: 1%;
+    margin-bottom: 6%;
+}
+
+.bordedifuminado{
+    border-radius: 10px;
+    box-shadow: 0 0 15px #ddd;
+    background: #fff;
+}
+
+.fuente2 {
+    -webkit-text-stroke: 0.3px rgb(255, 255, 255);
+}
+
+.fuente3 {
+    -webkit-text-stroke: 0.3px rgb(0, 0, 0);
+}
+
+.titulosManga {
+    font-family: 'EB Garamond', serif;
+    -webkit-text-stroke: 0.3px rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
